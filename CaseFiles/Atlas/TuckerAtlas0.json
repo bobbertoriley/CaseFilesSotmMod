@@ -1,0 +1,196 @@
+{"frames": {
+
+"Bank.png":
+{
+	"frame": {"x":1282,"y":1,"w":256,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":198},
+	"sourceSize": {"w":256,"h":198}
+},
+"Cue.png":
+{
+	"frame": {"x":1543,"y":1,"w":256,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":198},
+	"sourceSize": {"w":256,"h":198}
+},
+"Derringer.png":
+{
+	"frame": {"x":1,"y":262,"w":256,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":198},
+	"sourceSize": {"w":256,"h":198}
+},
+"Division6Badge.png":
+{
+	"frame": {"x":262,"y":262,"w":256,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":198},
+	"sourceSize": {"w":256,"h":198}
+},
+"DivisionCheerTuckerCharacter.png":
+{
+	"frame": {"x":1,"y":1,"w":178,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":256},
+	"sourceSize": {"w":178,"h":256}
+},
+"DivisionCheerTuckerCharacterBack.png":
+{
+	"frame": {"x":184,"y":1,"w":178,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":256},
+	"sourceSize": {"w":178,"h":256}
+},
+"EvidenceStorage.png":
+{
+	"frame": {"x":523,"y":262,"w":256,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":198},
+	"sourceSize": {"w":256,"h":198}
+},
+"FieldExperience.png":
+{
+	"frame": {"x":784,"y":262,"w":256,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":198},
+	"sourceSize": {"w":256,"h":198}
+},
+"Holster.png":
+{
+	"frame": {"x":1045,"y":262,"w":256,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":198},
+	"sourceSize": {"w":256,"h":198}
+},
+"Kiss.png":
+{
+	"frame": {"x":1306,"y":262,"w":256,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":198},
+	"sourceSize": {"w":256,"h":198}
+},
+"Marshal.png":
+{
+	"frame": {"x":1567,"y":262,"w":256,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":198},
+	"sourceSize": {"w":256,"h":198}
+},
+"MoondancerTuckerCharacter.png":
+{
+	"frame": {"x":367,"y":1,"w":178,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":256},
+	"sourceSize": {"w":178,"h":256}
+},
+"MoondancerTuckerCharacterBack.png":
+{
+	"frame": {"x":550,"y":1,"w":178,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":256},
+	"sourceSize": {"w":178,"h":256}
+},
+"PistolWhip.png":
+{
+	"frame": {"x":1,"y":465,"w":256,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":198},
+	"sourceSize": {"w":256,"h":198}
+},
+"Pocket.png":
+{
+	"frame": {"x":262,"y":465,"w":256,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":198},
+	"sourceSize": {"w":256,"h":198}
+},
+"Revolver.png":
+{
+	"frame": {"x":523,"y":465,"w":256,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":198},
+	"sourceSize": {"w":256,"h":198}
+},
+"Scratch.png":
+{
+	"frame": {"x":784,"y":465,"w":256,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":198},
+	"sourceSize": {"w":256,"h":198}
+},
+"SharpTongue.png":
+{
+	"frame": {"x":1045,"y":465,"w":256,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":198},
+	"sourceSize": {"w":256,"h":198}
+},
+"TrickUpHerSleeve.png":
+{
+	"frame": {"x":1306,"y":465,"w":256,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":198},
+	"sourceSize": {"w":256,"h":198}
+},
+"TuckerCharacter.png":
+{
+	"frame": {"x":733,"y":1,"w":178,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":256},
+	"sourceSize": {"w":178,"h":256}
+},
+"TuckerCharacterBack.png":
+{
+	"frame": {"x":916,"y":1,"w":178,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":256},
+	"sourceSize": {"w":178,"h":256}
+},
+"TuckerDeckBack.png":
+{
+	"frame": {"x":1099,"y":1,"w":178,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":256},
+	"sourceSize": {"w":178,"h":256}
+},
+"TwinPistols.png":
+{
+	"frame": {"x":1567,"y":465,"w":256,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":198},
+	"sourceSize": {"w":256,"h":198}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "TuckerAtlas0.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:aebcee170ac95a9a3e51a1f7a63073b0:994f4a22f1979d5a0f14c916532b987b:7f4729592ccfb3160f117ff71cacfc00$"
+}
+}

@@ -1,0 +1,60 @@
+{"frames": {
+
+"DivisionCheerTuckerCharacter.png":
+{
+	"frame": {"x":1,"y":1,"w":400,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":200},
+	"sourceSize": {"w":400,"h":200}
+},
+"DivisionCheerTuckerCharacterFlipped.png":
+{
+	"frame": {"x":406,"y":1,"w":400,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":200},
+	"sourceSize": {"w":400,"h":200}
+},
+"MoondancerTuckerCharacter.png":
+{
+	"frame": {"x":1,"y":206,"w":400,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":200},
+	"sourceSize": {"w":400,"h":200}
+},
+"MoondancerTuckerCharacterFlipped.png":
+{
+	"frame": {"x":406,"y":206,"w":400,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":200},
+	"sourceSize": {"w":400,"h":200}
+},
+"TuckerCharacter.png":
+{
+	"frame": {"x":1,"y":411,"w":400,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":200},
+	"sourceSize": {"w":400,"h":200}
+},
+"TuckerCharacterFlipped.png":
+{
+	"frame": {"x":1,"y":616,"w":400,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":200},
+	"sourceSize": {"w":400,"h":200}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "EndGameHeroes0.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:958d88cbe1d39dc197af92bc1e04cb68:e509138f2b487d5dfe0b6926f9ea7da6:e92652cff04ed6c8e37f7bc0458ec814$"
+}
+}
