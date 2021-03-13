@@ -2,39 +2,71 @@
 
 "Bank.png":
 {
-	"frame": {"x":1282,"y":1,"w":256,"h":198},
+	"frame": {"x":1,"y":1,"w":256,"h":198},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":198},
 	"sourceSize": {"w":256,"h":198}
+},
+"BankMicro.png":
+{
+	"frame": {"x":1828,"y":262,"w":108,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":108},
+	"sourceSize": {"w":108,"h":108}
 },
 "Cue.png":
 {
-	"frame": {"x":1543,"y":1,"w":256,"h":198},
+	"frame": {"x":262,"y":1,"w":256,"h":198},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":198},
 	"sourceSize": {"w":256,"h":198}
+},
+"CueMicro.png":
+{
+	"frame": {"x":1828,"y":375,"w":108,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":108},
+	"sourceSize": {"w":108,"h":108}
 },
 "Derringer.png":
 {
-	"frame": {"x":1,"y":262,"w":256,"h":198},
+	"frame": {"x":523,"y":1,"w":256,"h":198},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":198},
 	"sourceSize": {"w":256,"h":198}
+},
+"DerringerMicro.png":
+{
+	"frame": {"x":184,"y":894,"w":108,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":108},
+	"sourceSize": {"w":108,"h":108}
 },
 "Division6Badge.png":
 {
-	"frame": {"x":262,"y":262,"w":256,"h":198},
+	"frame": {"x":784,"y":1,"w":256,"h":198},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":198},
 	"sourceSize": {"w":256,"h":198}
 },
+"Division6BadgeMicro.png":
+{
+	"frame": {"x":184,"y":1007,"w":108,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":108},
+	"sourceSize": {"w":108,"h":108}
+},
 "DivisionCheerTuckerCharacter.png":
 {
-	"frame": {"x":1,"y":1,"w":178,"h":256},
+	"frame": {"x":1828,"y":1,"w":178,"h":256},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":256},
@@ -42,55 +74,111 @@
 },
 "DivisionCheerTuckerCharacterBack.png":
 {
-	"frame": {"x":184,"y":1,"w":178,"h":256},
+	"frame": {"x":1,"y":262,"w":178,"h":256},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":256},
 	"sourceSize": {"w":178,"h":256}
 },
+"DivisionCheerTuckerCharacterBackMicro.png":
+{
+	"frame": {"x":184,"y":1120,"w":108,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":108},
+	"sourceSize": {"w":108,"h":108}
+},
+"DivisionCheerTuckerCharacterMicro.png":
+{
+	"frame": {"x":184,"y":1233,"w":108,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":108},
+	"sourceSize": {"w":108,"h":108}
+},
 "EvidenceStorage.png":
 {
-	"frame": {"x":523,"y":262,"w":256,"h":198},
+	"frame": {"x":1045,"y":1,"w":256,"h":198},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":198},
 	"sourceSize": {"w":256,"h":198}
+},
+"EvidenceStorageMicro.png":
+{
+	"frame": {"x":184,"y":1346,"w":108,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":108},
+	"sourceSize": {"w":108,"h":108}
 },
 "FieldExperience.png":
 {
-	"frame": {"x":784,"y":262,"w":256,"h":198},
+	"frame": {"x":1306,"y":1,"w":256,"h":198},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":198},
 	"sourceSize": {"w":256,"h":198}
+},
+"FieldExperienceMicro.png":
+{
+	"frame": {"x":184,"y":1459,"w":108,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":108},
+	"sourceSize": {"w":108,"h":108}
 },
 "Holster.png":
 {
-	"frame": {"x":1045,"y":262,"w":256,"h":198},
+	"frame": {"x":1567,"y":1,"w":256,"h":198},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":198},
 	"sourceSize": {"w":256,"h":198}
+},
+"HolsterMicro.png":
+{
+	"frame": {"x":184,"y":1572,"w":108,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":108},
+	"sourceSize": {"w":108,"h":108}
 },
 "Kiss.png":
 {
-	"frame": {"x":1306,"y":262,"w":256,"h":198},
+	"frame": {"x":1,"y":1828,"w":256,"h":198},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":198},
 	"sourceSize": {"w":256,"h":198}
+},
+"KissMicro.png":
+{
+	"frame": {"x":184,"y":1685,"w":108,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":108},
+	"sourceSize": {"w":108,"h":108}
 },
 "Marshal.png":
 {
-	"frame": {"x":1567,"y":262,"w":256,"h":198},
+	"frame": {"x":262,"y":204,"w":256,"h":198},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":198},
 	"sourceSize": {"w":256,"h":198}
 },
+"MarshalMicro.png":
+{
+	"frame": {"x":262,"y":1798,"w":108,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":108},
+	"sourceSize": {"w":108,"h":108}
+},
 "MoondancerTuckerCharacter.png":
 {
-	"frame": {"x":367,"y":1,"w":178,"h":256},
+	"frame": {"x":1,"y":523,"w":178,"h":256},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":256},
@@ -98,63 +186,127 @@
 },
 "MoondancerTuckerCharacterBack.png":
 {
-	"frame": {"x":550,"y":1,"w":178,"h":256},
+	"frame": {"x":1,"y":784,"w":178,"h":256},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":256},
 	"sourceSize": {"w":178,"h":256}
 },
+"MoondancerTuckerCharacterBackMicro.png":
+{
+	"frame": {"x":262,"y":1911,"w":108,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":108},
+	"sourceSize": {"w":108,"h":108}
+},
+"MoondancerTuckerCharacterMicro.png":
+{
+	"frame": {"x":297,"y":894,"w":108,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":108},
+	"sourceSize": {"w":108,"h":108}
+},
 "PistolWhip.png":
 {
-	"frame": {"x":1,"y":465,"w":256,"h":198},
+	"frame": {"x":523,"y":204,"w":256,"h":198},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":198},
 	"sourceSize": {"w":256,"h":198}
+},
+"PistolWhipMicro.png":
+{
+	"frame": {"x":297,"y":1007,"w":108,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":108},
+	"sourceSize": {"w":108,"h":108}
 },
 "Pocket.png":
 {
-	"frame": {"x":262,"y":465,"w":256,"h":198},
+	"frame": {"x":784,"y":204,"w":256,"h":198},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":198},
 	"sourceSize": {"w":256,"h":198}
+},
+"PocketMicro.png":
+{
+	"frame": {"x":297,"y":1120,"w":108,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":108},
+	"sourceSize": {"w":108,"h":108}
 },
 "Revolver.png":
 {
-	"frame": {"x":523,"y":465,"w":256,"h":198},
+	"frame": {"x":1045,"y":204,"w":256,"h":198},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":198},
 	"sourceSize": {"w":256,"h":198}
+},
+"RevolverMicro.png":
+{
+	"frame": {"x":297,"y":1233,"w":108,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":108},
+	"sourceSize": {"w":108,"h":108}
 },
 "Scratch.png":
 {
-	"frame": {"x":784,"y":465,"w":256,"h":198},
+	"frame": {"x":1306,"y":204,"w":256,"h":198},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":198},
 	"sourceSize": {"w":256,"h":198}
+},
+"ScratchMicro.png":
+{
+	"frame": {"x":297,"y":1346,"w":108,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":108},
+	"sourceSize": {"w":108,"h":108}
 },
 "SharpTongue.png":
 {
-	"frame": {"x":1045,"y":465,"w":256,"h":198},
+	"frame": {"x":1567,"y":204,"w":256,"h":198},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":198},
 	"sourceSize": {"w":256,"h":198}
+},
+"SharpTongueMicro.png":
+{
+	"frame": {"x":297,"y":1459,"w":108,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":108},
+	"sourceSize": {"w":108,"h":108}
 },
 "TrickUpHerSleeve.png":
 {
-	"frame": {"x":1306,"y":465,"w":256,"h":198},
+	"frame": {"x":184,"y":488,"w":256,"h":198},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":198},
 	"sourceSize": {"w":256,"h":198}
 },
+"TrickUpHerSleeveMicro.png":
+{
+	"frame": {"x":297,"y":1572,"w":108,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":108},
+	"sourceSize": {"w":108,"h":108}
+},
 "TuckerCharacter.png":
 {
-	"frame": {"x":733,"y":1,"w":178,"h":256},
+	"frame": {"x":1,"y":1045,"w":178,"h":256},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":256},
@@ -162,27 +314,59 @@
 },
 "TuckerCharacterBack.png":
 {
-	"frame": {"x":916,"y":1,"w":178,"h":256},
+	"frame": {"x":1,"y":1306,"w":178,"h":256},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":256},
 	"sourceSize": {"w":178,"h":256}
+},
+"TuckerCharacterBackMicro.png":
+{
+	"frame": {"x":297,"y":1685,"w":108,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":108},
+	"sourceSize": {"w":108,"h":108}
+},
+"TuckerCharacterMicro.png":
+{
+	"frame": {"x":375,"y":1798,"w":108,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":108},
+	"sourceSize": {"w":108,"h":108}
 },
 "TuckerDeckBack.png":
 {
-	"frame": {"x":1099,"y":1,"w":178,"h":256},
+	"frame": {"x":1,"y":1567,"w":178,"h":256},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":256},
 	"sourceSize": {"w":178,"h":256}
 },
+"TuckerDeckBackMicro.png":
+{
+	"frame": {"x":375,"y":1911,"w":108,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":108},
+	"sourceSize": {"w":108,"h":108}
+},
 "TwinPistols.png":
 {
-	"frame": {"x":1567,"y":465,"w":256,"h":198},
+	"frame": {"x":184,"y":691,"w":256,"h":198},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":198},
 	"sourceSize": {"w":256,"h":198}
+},
+"TwinPistolsMicro.png":
+{
+	"frame": {"x":410,"y":894,"w":108,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":108},
+	"sourceSize": {"w":108,"h":108}
 }},
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
@@ -191,6 +375,6 @@
 	"format": "RGBA8888",
 	"size": {"w":2048,"h":2048},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:aebcee170ac95a9a3e51a1f7a63073b0:994f4a22f1979d5a0f14c916532b987b:7f4729592ccfb3160f117ff71cacfc00$"
+	"smartupdate": "$TexturePacker:SmartUpdate:b2d4d3e656441bbb6d9252e11e78364b:f8821915d40c2aac1d049cfbf7f97d1e:7f4729592ccfb3160f117ff71cacfc00$"
 }
 }
